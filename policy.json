@@ -1,0 +1,21 @@
+[
+  {
+    "id": "P001",
+    "title": "Data Privacy Policy",
+    "section": "Retention",
+    "content": "User data is retained for 90 days. It should not be retained after that."
+  },
+      {
+    "id": "P002",
+    "title": "Holiday Policy",
+    "section": "Leave",
+    "content": "Only 10 holidays should be given for any employee in a given year. It includes optional Holidays as well."
+  },
+     {
+    "id": "P003",
+    "title": "Earned Leave Policy",
+    "section": "Leave",
+    "content": "Each employee is eligible for 5 earned leaves per quarter, aligning with our commitment to supporting work–life balance while ensuring smooth operational continuity. Earned leaves are designed to provide team members with the flexibility to pause, rest, or attend to personal commitments without compromising their professional responsibilities. These leaves may be availed at any time during the quarter, subject to prior approval from the reporting manager to ensure adequate workforce planning.For trainees, the entitlement is 4 earned leaves per quarter. This distinction recognizes the structured nature of training programs and the importance of consistent participation during the learning phase. Trainees are encouraged to utilize these leaves responsibly and plan ahead whenever possible. All employees and trainees are expected to submit leave requests through the designated HR or attendance system. Unused earned leaves will follow the organization's standard carry‑forward or lapse rules as applicable."
+  }
+    
+]
